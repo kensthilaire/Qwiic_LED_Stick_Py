@@ -38,7 +38,7 @@
 # Example 8
 
 from __future__ import print_function
-import qwiic_led_stick
+import Qwiic.qwiic_led_stick as qwiic_led_stick
 import math
 import time
 import sys

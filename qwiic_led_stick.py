@@ -51,7 +51,7 @@ New to qwiic? Take a look at the entire [SparkFun Qwiic Ecoststem](https://www.s
 
 import math
 import time
-import qwiic_i2c
+import Qwiic.qwiic_i2c as qwiic_i2c
 
 _DEFAULT_NAME = "Qwiic LED Stick"
 
